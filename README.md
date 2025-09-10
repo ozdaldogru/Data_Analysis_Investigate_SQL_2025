@@ -1,0 +1,2 @@
+# Data_Analysis_Investigate_SQL_2025
+SQL Linkedin training
